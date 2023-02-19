@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WebTend](https://webtend.net/)
 
-- 🌱 I’m currently learning **Laravel, WordPress Plugin, React**
+- 🌱 I’m currently learning **WordPress Plugin, React**
 
 - 💬 Ask me about **Your problem and get a well organized solution**
 
